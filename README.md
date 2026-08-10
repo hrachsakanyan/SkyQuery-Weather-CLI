@@ -1,7 +1,7 @@
 <h1 align="center">🌦️ SkyQuery</h1>
 
 <p align="center">
-A modern command-line weather client written in Python.
+A modern command-line weather client written in Python. 
 </p>
 
 <p align="center">
