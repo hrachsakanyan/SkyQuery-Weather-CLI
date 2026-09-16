@@ -19,7 +19,7 @@ Current Weather • Multi-Day Forecast • Caching • JSON Output • No API Ke
 
 ---
 
-## Screenshot
+## Screenshot 
 
 ```text
 Yerevan, Armenia
