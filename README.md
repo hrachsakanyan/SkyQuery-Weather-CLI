@@ -389,7 +389,7 @@ Configuration and cache are redirected to a temporary directory during testing.
 
 ---
 
-## License
+## License 
 
 MIT
 
